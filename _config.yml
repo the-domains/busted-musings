@@ -1,14 +1,14 @@
-layout_spectrum: 0.8858058485202491
-typography_spectrum: 0.25096903718076646
+layout_spectrum: 0.788273474900052
+typography_spectrum: 0.5316472384147346
 color:
-  brandStrength: 0.07601548382081091
-  lightness: 0.42168696434237063
-  saturation: 0.8506555173080415
-  rhythmicContrast: 0.2809199139010161
+  brandStrength: 0.8073814027011395
+  lightness: 0.08229854772798717
+  saturation: 0.922536421334371
+  rhythmicContrast: 0.25886771990917623
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
 name: busted musings
